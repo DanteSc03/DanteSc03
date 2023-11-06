@@ -28,9 +28,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Python, R and SQL @UNAV**
+- 🌱 I’m currently learning **Python, R, SQL and Tableau @UNAV**
 
-- ☁️ I've keen interest in Data Analytics. So, I'm learning **SQL**
+- ☁️ I've keen interest in Data Driven Solutions. So, I'm learning **Tableau**
 
 - 💬 Ask me about **R, Python, Statistics, and Data Analytics**
 
