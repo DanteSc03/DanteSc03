@@ -104,7 +104,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=DanteSc03&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DanteSc03&label=Profile%20Views&color=1&icon=1&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
 
