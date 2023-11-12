@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working on **My Website**
 
 - 🌱 I’m currently learning **Python, R, SQL and Tableau @UNAV**
 
