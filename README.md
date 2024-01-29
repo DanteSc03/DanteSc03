@@ -28,11 +28,11 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **My Website**
 
-- 🌱 I’m currently learning **Python, R, SQL and Tableau @UNAV**
+- 🌱 I’m currently learning **Python, R, SQL and Java @UNAV**
 
-- ☁️ I've keen interest in Data Driven Solutions. So, I'm learning **Tableau**
+- ☁️ I've keen interest in Data Driven Solutions. So, I'm learning **MySQL**
 
-- 💬 Ask me about **R, Python, Statistics, and Data Analytics**
+- 💬 Ask me about **R, Python, Web Desing, and Data Analytics**
 
 - 📫 Feel free to reach me at **danteschrantz@gmail.com**
 <!--Intro end-->
