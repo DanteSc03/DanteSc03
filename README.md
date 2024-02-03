@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **My Website**
+- 🔭 I’m currently working on **Cadeira AI**
 
 - 🌱 I’m currently learning **Python, R, SQL and Java @UNAV**
 
