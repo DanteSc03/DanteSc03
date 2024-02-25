@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in Data Driven Solutions. So, I'm learning **MySQL**
 
-- 💬 Ask me about **R, Python, Web Desing, and Data Analytics**
+- 💬 Ask me about **R, Python, Web Design, and Data Analytics**
 
 - 📫 Feel free to reach me at **danteschrantz@gmail.com**
 <!--Intro end-->
