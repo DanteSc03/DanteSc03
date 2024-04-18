@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Cadeira AI**
 
-- 🌱 I’m currently learning **Python, R, SQL and Java @UNAV**
+- 🌱 I’m currently learning **Python, R, SQL and JavaScript @UNAV**
 
 - ☁️ I've keen interest in Data Driven Solutions. So, I'm learning **MySQL**
 
