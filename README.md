@@ -25,13 +25,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Cadeira AI**
+- 🔭 I’m currently working on **Cadeira AI** and **Innosemble**
 
 - 🌱 I’m currently learning **Python, R, SQL and JavaScript @UNAV**
 
 - ☁️ I've keen interest in Data Driven Solutions. So, I'm learning **MySQL**
 
-- 💬 Ask me about **R, Python, Web Design, and Data Analytics**
+- 💬 Ask me about **R, Python, SQL, Web Design, and Data Analytics**
 
 - 📫 Feel free to reach me at **danteschrantz@gmail.com**
 <!--Intro end-->
