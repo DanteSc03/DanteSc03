@@ -80,6 +80,8 @@
   </a>
 </p>
 
+<a href="https://my.flightradar24.com/DanteSc03"><img src="https://banners-my.flightradar24.com/DanteSc03.png" alt="My Flightdiary.net profile" /></a>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
